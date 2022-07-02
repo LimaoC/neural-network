@@ -1,0 +1,7 @@
+---
+title: "Inverse Functions"
+tags:
+- "MATH1051"
+---
+
+Let $f: X \to Y$ be a bijective ([[notes/MATH1051/2 injective functions|injective]] and surjective) function. The *inverse function* $f^{-1}: Y \to X$ is defined by $f^{-1}(y) = x$ for each $y \in Y$ and $x \in X$. We have $f^{-1}(y) = x \iff y = f(x)$.
