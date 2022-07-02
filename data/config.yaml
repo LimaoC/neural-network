@@ -3,7 +3,7 @@ name: Limao Chang
 # globally display the table of contents on each page
 enableToc: true
 # open table of contents by default on each page
-openToc: false
+openToc: true
 # display link preview cards on hover
 enableLinkPreview: true
 # latex processing
