@@ -1,20 +1,31 @@
-name: Jacky Zhao
+# name on footer
+name: Limao Chang
+# globally display the table of contents on each page
 enableToc: true
+# open table of contents by default on each page
 openToc: false
+# display link preview cards on hover
 enableLinkPreview: true
+# latex processing
 enableLatex: true
+# render titles for code blocks
 enableCodeBlockTitle: true
+# single-page-app style rendering
 enableSPA: true
+# render footer
 enableFooter: true
+# page backlinks show context in which they were mentioned
 enableContextualBacklinks: true
+# section of recent notes on homepage
 enableRecentNotes: false
+# page description used for SEO
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Course notes from my Mathematics and Computer Science degree at the University of Queensland. Built
+  using Quartz and Hugo.
 page_title:
-  "🪴 Quartz 3.2"
+  "Neural Network"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: GitHub
+    link: https://github.com/LimaoC/neural-network
+favicon:
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
