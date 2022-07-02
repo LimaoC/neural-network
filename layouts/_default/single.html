@@ -19,7 +19,7 @@
       </p>
       <ul class="tags">
           {{ range (.GetTerms "tags") }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
+          <li><a href="{{ .Permalink }}"><span style="text-transform:uppercase">{{ .LinkTitle | humanize }}</span></a></li>
           {{ end }}
       </ul>
       {{partial "toc.html" .}}
