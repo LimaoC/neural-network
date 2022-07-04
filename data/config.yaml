@@ -17,7 +17,7 @@ enableFooter: true
 # page backlinks show context in which they were mentioned
 enableContextualBacklinks: true
 # section of recent notes on homepage
-enableRecentNotes: false
+enableRecentNotes: true
 # page description used for SEO
 description:
   Course notes from my Mathematics and Computer Science degree at the University of Queensland. Built
