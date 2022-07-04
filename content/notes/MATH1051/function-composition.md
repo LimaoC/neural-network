@@ -4,7 +4,7 @@ tags:
 - "MATH1051"
 ---
 
-Let $f: X \to Y$ and $g: Y \to Z$ be two [[notes/MATH1051/2 functions|functions]]. The *composition* of $f$ and $g$, denoted $f \circ g: X \to Z$, is defined by
+Let $f: X \to Y$ and $g: Y \to Z$ be two [functions](notes/MATH1051/functions.md). The *composition* of $f$ and $g$, denoted $f \circ g: X \to Z$, is defined by
 
 $$(f \circ g)(x) = f(g(x)).$$
 
