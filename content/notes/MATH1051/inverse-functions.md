@@ -1,5 +1,6 @@
 ---
 title: "Inverse Functions"
+publishdate: "2022-07-02"
 tags:
 - "MATH1051"
 ---

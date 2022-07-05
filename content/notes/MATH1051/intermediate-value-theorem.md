@@ -1,5 +1,6 @@
 ---
 title: "Intermediate Value Theorem"
+publishdate: "2022-07-03"
 tags:
 - "MATH1051"
 ---
